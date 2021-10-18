@@ -1,7 +1,3 @@
 push me if you can
 
-<<<<<<< HEAD
-isisis
-=======
 oopp
->>>>>>> refs/remotes/origin/main
